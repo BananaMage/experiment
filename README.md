@@ -1,2 +1,2 @@
 # experiment
-where I store bananas
+where I store regular bananas
